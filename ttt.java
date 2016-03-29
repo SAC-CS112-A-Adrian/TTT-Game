@@ -3,7 +3,7 @@ import java.util.Arrays;
 import javax.swing.JOptionPane;
 import java.util.Scanner;
 
-public class gg {
+public class ttt {
 
 	public static void main(String[] args) {
 
